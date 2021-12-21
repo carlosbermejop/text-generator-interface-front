@@ -1,0 +1,52 @@
+body {
+  background-color: #fbffff;
+}
+
+h1 {
+  font-size: 3em;
+  margin-left: 30px;
+}
+
+#greeting-component {
+  padding: 12px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 60px;
+  margin-left: 30px;
+  margin-bottom: 16px;
+  resize: vertical;
+  position: relative;
+  text-align: center;
+}
+
+#greeting-component label {
+  font-size: 1.5em;
+  margin-top: 100px;
+  padding-right: 10px;
+  padding-left: 20px;
+  display: block;
+}
+
+#greeting-component input {
+  font-size: 1.5em;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+
+#greeting-component button {
+  font-size: 1.5em;
+  padding-left: 10px;
+  margin-left: 20px;
+}
+#greeting-component img {
+  height: auto; 
+  width: auto; 
+  max-width: 50em;
+}
+
+#result {
+  font-size: 3em;
+  font-weight: bolder;
+  position: relative;
+  text-align: center;
+}
