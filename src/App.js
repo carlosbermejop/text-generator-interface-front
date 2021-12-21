@@ -42,6 +42,7 @@ function App() {
 
         {handleSubmitted()}
       </div>
+      <footer>This is just a test</footer>
     </>
   );
 }
