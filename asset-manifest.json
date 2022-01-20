@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/text-generator-interface/static/css/main.d4a1d0d8.css",
-    "main.js": "/text-generator-interface/static/js/main.34d20d4a.js",
-    "static/js/787.be3d561f.chunk.js": "/text-generator-interface/static/js/787.be3d561f.chunk.js",
-    "index.html": "/text-generator-interface/index.html",
-    "main.d4a1d0d8.css.map": "/text-generator-interface/static/css/main.d4a1d0d8.css.map",
-    "main.34d20d4a.js.map": "/text-generator-interface/static/js/main.34d20d4a.js.map",
-    "787.be3d561f.chunk.js.map": "/text-generator-interface/static/js/787.be3d561f.chunk.js.map"
+    "main.css": "/text-generator-interface-front/static/css/main.d4a1d0d8.css",
+    "main.js": "/text-generator-interface-front/static/js/main.0094ed37.js",
+    "static/js/787.be3d561f.chunk.js": "/text-generator-interface-front/static/js/787.be3d561f.chunk.js",
+    "index.html": "/text-generator-interface-front/index.html",
+    "main.d4a1d0d8.css.map": "/text-generator-interface-front/static/css/main.d4a1d0d8.css.map",
+    "main.0094ed37.js.map": "/text-generator-interface-front/static/js/main.0094ed37.js.map",
+    "787.be3d561f.chunk.js.map": "/text-generator-interface-front/static/js/787.be3d561f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4a1d0d8.css",
-    "static/js/main.34d20d4a.js"
+    "static/js/main.0094ed37.js"
   ]
 }
