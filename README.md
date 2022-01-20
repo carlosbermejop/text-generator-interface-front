@@ -1,7 +1,7 @@
 # text-generator-interface
 Node code for the broker that will interface with GPT-3 and handle things like creating downloadable documents.
 
-The latest, production-like version of this application is hosted at [https://carlosbermejop.github.io/text-generator-interface/](https://carlosbermejop.github.io/text-generator-interface/)
+The latest, production-like version of this application is hosted at [https://carlosbermejop.github.io/text-generator-interface-front/](https://carlosbermejop.github.io/text-generator-interface-front/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
