@@ -23,6 +23,7 @@ jobs:
         run: |
           yarn install
           yarn run test
+          export NODE_ENV=production
           yarn run build
 
       - name: Deploy 🚀
