@@ -1,0 +1,8 @@
+{
+  "development": {
+    "api_url": "http://localhost:8080"
+  },
+  "production": {
+    "api_url": "https://text-generator-interback-back.herokuapp.com"
+  }
+}
