@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Node code for the broker that will interface with GPT-3 and handle things like creating downloadable documents.",
   "private": true,
-  "homepage": "https://carlosbermejop.github.io/text-generator-interface",
+  "homepage": "https://carlosbermejop.github.io/text-generator-interface-front",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
