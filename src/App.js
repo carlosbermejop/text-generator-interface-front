@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import environment from "./config/environment.json";
 import "./App.css";
 import axios from "axios";
@@ -32,7 +32,6 @@ function App() {
       const result = await axios.get(
         `${apiBaseUrl}/greeting/${username.length > 0 ? username : ""}`
       );
-      console.log(result);
 
       setMessage(
         result.status === 200 ? result.data : "Could not retrieve message."
